@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+dataset/
+datasets/
+
+# Ignore other large outputs
+runs/
+outputs/
+checkpoints/
+
+# Allow model weights (handled by Git LFS)
+!models/
+!models/**
+!*.pt
+!*.pth
+
+# OS
+.DS_Store
+Thumbs.db
