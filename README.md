@@ -119,7 +119,7 @@ The process involves:
 
 | Original MRI | Grad-CAM Heatmap |
 |---|---|
-| ![MRI](assets/xai4.png) | ![GradCAM](assets/xai4.2.png) |
+| ![MRI](assets/xai4.1.png) | ![GradCAM](assets/xai4.2.png) |
 
 ---
 
